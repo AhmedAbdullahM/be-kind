@@ -17,7 +17,7 @@
 }
 
 .button{
-    background-image: linear-gradient(orange,orangered);
+    background-image: linear-gradient(rgb(255, 68, 0),orangered);
     border-radius: 10px;
     padding:10px 15px;
     text-decoration: none;
@@ -98,5 +98,12 @@
     text-align:center;
     padding: 10px;
 }
+.new-flexy{
+    display:flex;
+    margin:40px;
+}
+
+
+
 font-family: 'Poppins', sans-serif;
 font-family: 'Rubik', sans-serif;
