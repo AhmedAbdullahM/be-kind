@@ -1,0 +1,102 @@
+.background{
+    background-image: url(images/donation13.jpg);
+    width: 100%;
+    height: 400px;
+    color:white;
+    margin-bottom:40px;
+}
+
+
+.text-align{
+    text-align: center;
+    padding-right:180px;
+    padding-left:180px;
+    padding-top:80px;
+   
+    
+}
+
+.button{
+    background-image: linear-gradient(orange,orangered);
+    border-radius: 10px;
+    padding:10px 15px;
+    text-decoration: none;
+    color:white;
+    
+}
+.donate-amount{
+    border-radius:5px;
+    margin:10px;
+    padding:20px;
+    border:2px solid white;
+    box-shadow: 1px 1px 1px 1px white; 
+    font-size: 25px;
+    cursor:pointer;
+}
+#write-tk{
+    width:500px;
+    margin-top:30px;
+    border-top:0px;
+    border-left: 0px;
+    border-right:0px;
+    text-align:center;
+    
+}
+.flexable{
+    display: flex;
+    margin:50px;
+    
+}
+#food-back{
+    background-color: rgb(250, 250, 250);
+    margin:15px;
+    padding:10px;
+}
+#shelter-back{
+    background-color: rgb(246, 237, 238);
+    margin:15px;
+    padding:10px;
+}
+#education-back{
+    background-color: antiquewhite;
+   text-align:justify;
+    margin:15px;
+    padding:10px;
+}
+.get-update{
+    text-align:center;
+    margin-left:200px;
+    margin-right:200px;
+    margin-bottom: 50px;
+}
+#email-subscribe{
+    background-color:antiquewhite;
+   text-align:center;
+    padding:50px;
+
+}
+#mail-box{
+    background-color: lightgray;
+    border-top:0px;
+    border-left: 0px;
+    border-right:none;
+    border-bottom:none;
+    border-radius: 5px;
+    padding: 6px;
+    padding-right: 35px;
+}
+#Subscribe-button{
+    background-color: tomato;
+    margin-left: 0px;
+    border: none;
+    padding: 6px 20px;
+    border-radius: 5px;
+}
+#footer{
+    margin:1px;
+    background-color: black;
+    text-align:center;
+    padding: 10px;
+}
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
